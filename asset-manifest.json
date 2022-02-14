@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simulacro-11febrero/static/css/main.c70bfde7.css",
+    "main.js": "/simulacro-11febrero/static/js/main.479ea077.js",
+    "index.html": "/simulacro-11febrero/index.html",
+    "main.c70bfde7.css.map": "/simulacro-11febrero/static/css/main.c70bfde7.css.map",
+    "main.479ea077.js.map": "/simulacro-11febrero/static/js/main.479ea077.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c70bfde7.css",
+    "static/js/main.479ea077.js"
+  ]
+}
